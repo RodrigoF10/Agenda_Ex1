@@ -2,6 +2,6 @@
 
 Projeto de:
 
-Rodrigo Barbosa Faria
-Carolainy Oliveira Felipe
-Leonardo Vinicius Lopes da Silva
+Rodrigo Barbosa Faria \\ 
+Carolainy Oliveira Felipe \\
+Leonardo Vinicius Lopes da Silva \\
